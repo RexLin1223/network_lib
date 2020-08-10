@@ -58,3 +58,6 @@ MSVC++ 14.0
 
 - **set_timeout(timeout_millisecond)**
   - Set connection timeout.
+
+# License
+MIT
