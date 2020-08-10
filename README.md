@@ -10,4 +10,4 @@ And we also made a tester for HTTP request, using [googltest](https://github.com
 
 
 # Development platform
-Windows x64
+Windows x64/VisualStudio
