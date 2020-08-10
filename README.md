@@ -9,5 +9,5 @@ We are using Boost ASIO library for implement asynchronous in network IO.
 And we also made a tester for HTTP request, using [googltest](https://github.com/google/googletest).
 
 
-# Development platform
+# Development Platform
 Windows x64/VisualStudio
